@@ -1,0 +1,94 @@
+
+
+
+[ARMADA]
+CIUDADINICIAL=1-50-50
+TITULONOENLISTADO=Ciudadano de la Armada
+NUMJERARQUIAS=1
+
+[LEGION]
+CIUDADINICIAL=1-50-50
+TITULONOENLISTADO=Aspirante de la legion
+NUMJERARQUIAS=1
+
+
+'questterminada es el index de quest que tiene q terminar como requisito para esa jerarquia
+'premios son los premios comunes para todas las clases.
+'clases> 
+Mago - 1
+Clerigo - 2
+Guerrero - 3
+Asesino - 4
+Ladron - 5
+Bardo - 6
+Druida - 7
+Bandido - 8
+Paladin - 9
+Cazador - 10
+Trabajador - 11
+Pirata - 12
+
+[ARMADAJERARQUIA1] ' Mago
+LEGIONESMATADOS=50
+TITULO=Soldado del Rey
+QuestTerminada=
+NumPremios=2
+Premio1=128-1
+Premio2=150-1
+ObjsClase1Altos=598-500-129
+ObjsClase2Altos=598-500-129
+ObjsClase3Altos=598-500-129
+ObjsClase4Altos=598-500-129
+ObjsClase5Altos=598-500-129
+ObjsClase6Altos=598-500-129
+ObjsClase7Altos=598-500-129
+ObjsClase8Altos=598-500-129
+ObjsClase9Altos=598-500-129
+ObjsClase10Altos=598-500-129
+ObjsClase11Altos=598-500-129
+ObjsClase12Altos=598-500-129
+ObjsClase1Bajos=598-500-129
+ObjsClase2Bajos=598-500-129
+ObjsClase3Bajos=598-500-129
+ObjsClase4Bajos=598-500-129
+ObjsClase5Bajos=598-500-129
+ObjsClase6Bajos=598-500-129
+ObjsClase7Bajos=598-500-129
+ObjsClase8Bajos=598-500-129
+ObjsClase9Bajos=598-500-129
+ObjsClase10Bajos=598-500-129
+ObjsClase11Bajos=598-500-129
+ObjsClase12Bajos=598-500-129
+
+[LEGIONJERARQUIA1] ' Mago
+ARMADASMATADOS=50
+TITULO=Soldado del Demonio
+QuestTerminada=
+NumPremios=2
+Premio1=128-1
+Premio2=150-1
+ObjsClase1Altos=598-500-129
+ObjsClase2Altos=598-500-129
+ObjsClase3Altos=598-500-129
+ObjsClase4Altos=598-500-129
+ObjsClase5Altos=598-500-129
+ObjsClase6Altos=598-500-129
+ObjsClase7Altos=598-500-129
+ObjsClase8Altos=598-500-129
+ObjsClase9Altos=598-500-129
+ObjsClase10Altos=598-500-129
+ObjsClase11Altos=598-500-129
+ObjsClase12Altos=598-500-129
+ObjsClase1Bajos=598-500-129
+ObjsClase2Bajos=598-500-129
+ObjsClase3Bajos=598-500-129
+ObjsClase4Bajos=598-500-129
+ObjsClase5Bajos=598-500-129
+ObjsClase6Bajos=598-500-129
+ObjsClase7Bajos=598-500-129
+ObjsClase8Bajos=598-500-129
+ObjsClase9Bajos=598-500-129
+ObjsClase10Bajos=598-500-129
+ObjsClase11Bajos=598-500-129
+ObjsClase12Bajos=598-500-129
+

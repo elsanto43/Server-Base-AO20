@@ -1,0 +1,38 @@
+[INIT]
+NUMDESTINOS=9
+
+[DESTINO1]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO2]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO3]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO4]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO5]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO6]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO7]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO8]
+Nombre=Nombre del destino
+WorldPos=112-59-59
+
+[DESTINO9]
+Nombre=Nombre del destino
+WorldPos=112-59-59
