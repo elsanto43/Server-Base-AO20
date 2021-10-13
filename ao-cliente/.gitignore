@@ -1,0 +1,24 @@
+# Client Files.
+/INIT/sinfo.dat
+Errores.log
+Screenshots/*
+Codigo/*.log
+*.vbw
+*.oca
+*.csi
+*.lvw
+*.OBJ
+INIT/Inicio.con
+INIT/sinfo.dat
+INIT/Config.ini
+INIT/AO.dat
+INIT/messages.txt
+Argentum.exe
+
+# System Files.
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
