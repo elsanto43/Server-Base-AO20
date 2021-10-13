@@ -1,0 +1,24 @@
+Codigo/*.log
+Conversor/Mapas CSM/**
+Conversor/Mapas Integer/**
+Conversor/Mapas Long/**
+Recursos/Graficos/**
+Recursos/Init/**
+Recursos/Audio/MIDI**
+Recursos/Audio/MP3**
+Dats/**
+.DS_Store
+*.vbw
+*.lvw
+*.csi
+*.OBJ
+*.map
+*.csm
+*.png
+*.jpg
+*.bmp
+*.psd
+*.ind
+*.ani
+*.ico
+WorldEditor.exe
